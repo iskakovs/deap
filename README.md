@@ -54,3 +54,16 @@ git push origin feature/new-feature
 
 5. Create a pull request on the main repository, explaining your changes and the reason for the contribution.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+The MIT License is a permissive open-source license that allows you to use, modify, and distribute this project for both commercial and non-commercial purposes. However, it provides no warranty or liability, and you are using the project at your own risk.
+
+By contributing to this project, you agree to release your contributions under the terms of the MIT License.
+
+## Acknowledgments
+
+We would like to acknowledge the contributors of this repository and thank them for their valuable contributions.
+
+Feel free to use and modify the code in this repository for educational and personal use. I hope these projects inspire you to explore the exciting world of Genetic Algorithms!
