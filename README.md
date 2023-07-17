@@ -32,3 +32,25 @@ cd deap/Project1
 python main.py
 ```
 
+## Contributing
+
+Contributions to this repository are welcome! If you would like to add your own projects, improve existing code, or fix any issues, please follow these steps:
+
+1. Fork the repository to your GitHub account.
+
+2. Create a new branch for your contributions.
+```bash
+git checkout -b feature/new-feature
+```
+
+3. Make the necessary changes or additions.
+
+4. Commit your changes and push them to your forked repository.
+```bash
+git add .
+git commit -m "Add your commit message here"
+git push origin feature/new-feature
+```
+
+5. Create a pull request on the main repository, explaining your changes and the reason for the contribution.
+
