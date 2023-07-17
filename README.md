@@ -9,3 +9,8 @@ This repository contains a collection of projects demonstrating the implementati
 - Python;
 - DEAP.
 
+You can install the required packages using pip:
+```bash
+pip install deap
+```
+
