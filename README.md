@@ -13,4 +13,12 @@ You can install the required packages using pip:
 ```bash
 pip install deap
 ```
+## Usage
+
+To run any of the projects in this repository, follow these steps:
+
+1. Clone or download the repository to your local machine.
+```bash
+git clone https://github.com/iskakovs/deap.git
+```
 
