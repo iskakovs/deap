@@ -22,3 +22,13 @@ To run any of the projects in this repository, follow these steps:
 git clone https://github.com/iskakovs/deap.git
 ```
 
+2. Navigate to the specific project directory.
+```bash
+cd deap/Project1
+```
+
+3. Run the Python script for the project.
+```bash
+python main.py
+```
+
